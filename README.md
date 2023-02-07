@@ -1,6 +1,9 @@
 ## 👋 Hi, I’m @RobertWatkin
+As a full-stack software engineer with over a decade of experience in programming. I started to learn to code at 11 years old and have been working in industry since I was 19. I am currently 23 years old and I am driven to create innovative solutions that make a meaningful impact. With a passion for technology and a talent for turning complex ideas into elegant code, I consistently strive to deliver high-quality projects for any clients. 
 
-I am primarily a full stack website developer but enjoy many areas of tech. I am extremelly pationate about software engineering and have been learning to code through various technologies since 2011 (11 years old) when I first learned core web technologies. Some of my skills include:
+My expertise in modern web development frameworks and my ability to quickly learn new technologies have made me a valuable asset to any team.
+
+### 👩‍💻 Some of my skills include:
  - Web Essentials (HTML, CSS, JavaScript)
  - Tailwind
  - Laravel 9  (Used to create my website www.portfolio-hub.co.uk as well as my University dissertation)
@@ -20,7 +23,7 @@ I also have experience in maintaining live services through my work with Accentu
   - Perl
   - and more...
 
-- 📫 How to reach me ...
+📫 How to reach me ...
 
 Checkout my linkedin profile 
 https://www.linkedin.com/in/robert-watkin-8bb61515a/

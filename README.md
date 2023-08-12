@@ -10,7 +10,7 @@ My expertise in modern web development frameworks and my ability to quickly lear
     - PHP
     - Livewire
     - Blade
-  - React JS
+  - Vue JS
     - Currently learning. Checkout my public projects on GitHub
 
 I have been scaling my project Portfolio Hub so have been learning a lot about marketing and SEO in order to grow organic search for a site. 

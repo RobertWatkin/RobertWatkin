@@ -6,7 +6,7 @@ My expertise in modern web development frameworks and my ability to quickly lear
 ### 👩‍💻 Some of my skills include:
  - Web Essentials (HTML, CSS, JavaScript)
  - Tailwind
- - Laravel 9  (Used to create my website www.portfolio-hub.co.uk as well as my University dissertation)
+ - Laravel 10  (Used to create my website www.portfolio-hub.co.uk as well as my University dissertation)
     - PHP
     - Livewire
     - Blade

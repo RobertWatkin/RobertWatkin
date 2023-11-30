@@ -28,8 +28,5 @@ I also have experience in maintaining live services through my work with Accentu
 Checkout my linkedin profile 
 https://www.linkedin.com/in/robert-watkin-8bb61515a/
 
-or email me with the following email address:
-robert.watkin@portfolio-hub.co.uk
-(or use the contact form on my website - www.portfolio-hub.co.uk)
 
 
